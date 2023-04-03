@@ -1469,7 +1469,6 @@ input, select, textarea {
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #000001;
 			background-image: url("images/bgheader.jpg");
 		bottom: -1em;
 		height: 5em;
